@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoApplication</string>
+    <string name="take_new_picture">Take New Picture</string>
+    <string name="select_picture_from_gallery">Select Picture From Gallery</string>
+    <string name="upload_attachment">Upload Attachment</string>
+    <string name="cancel">cancel</string>
+    <string name="open_file_explorer">Open File Explorer</string>
+</resources>
